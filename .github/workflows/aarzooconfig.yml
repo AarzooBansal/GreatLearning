@@ -1,4 +1,4 @@
-name: Great learning Actions
+name: Great learning Action
 
 on:
   pull_request:
